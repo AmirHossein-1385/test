@@ -6,3 +6,11 @@ body{
 h1{
     color: beige;
 }
+
+h2{
+    font-size: 1rem;
+}
+
+img{
+    width: 100%;
+}

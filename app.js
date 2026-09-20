@@ -6,3 +6,8 @@ const addCourse =(course) =>{
 const register = (username) =>{
     return true;
 };
+
+
+const username = ()=>{
+    return true;
+};
