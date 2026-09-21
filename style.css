@@ -14,3 +14,12 @@ h2{
 img{
     width: 100%;
 }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column-reverse;
+}
+
+h3{
+    color: #000;
+}
