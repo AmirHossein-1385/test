@@ -27,3 +27,7 @@ h3{
 .login-form{
     display: inline;
 }
+
+.input{
+    padding: 1rem;
+}
