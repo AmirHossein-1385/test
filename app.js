@@ -8,6 +8,6 @@ const register = (username) =>{
 };
 
 
-const username = ()=>{
+const username = (username = 'ali')=>{
     return true;
 };
