@@ -11,3 +11,7 @@ const register = (username) =>{
 const username = (username = 'ali')=>{
     return true;
 };
+
+const login = (username) =>{
+    return true;
+};
