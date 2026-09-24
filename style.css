@@ -34,3 +34,9 @@ h4{
 .input{
     padding: 1rem;
 }
+
+.blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
