@@ -11,7 +11,3 @@ const register = (username) =>{
 const username = (username = 'ali')=>{
     return true;
 };
-
-const test =() =>{
-    return false;
-};
