@@ -15,3 +15,7 @@ const username = (username = 'ali')=>{
 const login = (username) =>{
     return true;
 };
+
+const Getme = (user) =>{
+    return user.name
+}
