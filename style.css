@@ -27,16 +27,3 @@ h3{
 .login-form{
     display: inline;
 }
-
-h4{
-    margin: 1rem;
-}
-.input{
-    padding: 1rem;
-}
-
-.blog{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
