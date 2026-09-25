@@ -19,3 +19,7 @@ const login = (username) =>{
 const Getme = (user) =>{
     return user.name
 }
+
+const commit = (comment) =>{
+    return comment.body;
+}
